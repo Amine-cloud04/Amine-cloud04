@@ -1,57 +1,68 @@
 # About Me
 
-I am a Data Engineering student at INPT (Morocco).  
-My main interests revolve around mathematics, algorithms, systems, and data-driven architectures.  
-I focus on understanding concepts in depth and building projects that reinforce intuition rather than relying on superficial learning.
+I am a Data Engineering student with a strong interest in building scalable data systems and applying advanced machine learning methods to real-world problems.  
+My approach emphasizes understanding the full lifecycle of data: ingestion, storage, transformation, modeling, deployment, and optimization.
 
 ---
 
-## Current Focus
+## Technical Skill Set
 
-- Strengthening software engineering fundamentals  
-  (data structures and algorithms, system design, clean code practices)
-- Developing practical skills in Python, C, Java, Git, and Linux
-- Improving my understanding of operating systems, networks, and relational databases
-- Building complete end-to-end projects to prepare for data engineering roles
+### Data Engineering
+- Design of end-to-end data pipelines (batch and near-real-time)
+- Strong understanding of data modeling, normalization, dimensional modeling, and schema design
+- Familiarity with distributed data concepts: partitioning, replication, fault tolerance, and consistency
+- Experience with workflow orchestration and DAG-based processing (Airflow-like concepts)
+- Solid SQL expertise: query optimization, indexing strategies, transaction analysis, and analytical queries
+- Practical exposure to ETL processes, data quality checks, and reproducible data workflows
+
+### Machine Learning
+- Applied ML using Python (scikit-learn ecosystem) with emphasis on:
+  - Feature engineering  
+  - Statistical validation and cross-validation schemes  
+  - Regularization and model selection  
+  - Interpretable models and error analysis
+- Understanding of supervised and unsupervised learning algorithms
+- Knowledge of evaluation metrics and deployment constraints
+- Familiarity with data preprocessing pipelines, vectorization, scaling, and transformations
+- Exposure to deep learning foundations and GPU-based computation (theoretical and practical basics)
+
+### Software & Systems
+- Strong Python fundamentals for data manipulation, scripting, and pipeline automation
+- Sound understanding of algorithmic complexity and efficient data structures
+- Version control with Git and clean project structure practices
+- Comfortable working in Linux environments and automating tasks through shell scripting
+- Knowledge of containerization concepts and reproducible environments
 
 ---
 
-## Technical Interests
+## Current Focus Areas
 
-- Data engineering and large-scale data systems  
-- Distributed systems and cloud concepts  
-- Networking fundamentals (routing, addressing, protocols)  
-- Operational research and optimization  
-- Machine learning foundations  
-- Systems programming and Linux environments
-
----
-
-## Tools and Technologies
-
-- Python, Scala , Java  
-- Linux, Shell scripting, Git  
-- SQL and relational database design  
-- Basic knowledge of networking (static routing, addressing, subnets)  
-- Familiarity with data engineering workflows and applied mathematics
+- Building scalable and clean data pipelines from ingestion to analytics
+- Improving ML workflows: hyperparameter tuning, robust validation, and experiment tracking
+- Studying the architecture of distributed data systems (Spark, Kafka, storage layers)
+- Understanding the engineering behind large datasets: compression, columnar storage, and query planning
+- Strengthening mathematical foundations for machine learning and optimization
 
 ---
 
-## What I'm Working On Right Now
+## Interests
 
-
+- Large-scale data processing  
+- Distributed compute frameworks  
+- ML system design and deployment  
+- Time-series modeling and forecasting pipelines  
+- Data reliability, quality monitoring, and observability  
+- Optimization, linear models, and algorithmic efficiency in ML
 
 ---
 
 ## Long-Term Goals
 
-- Build a strong technical foundation early in my studies  
-- Develop a solid portfolio of practical projects  
-- Pursue advanced opportunities later (research, industry roles in data engineering or distributed systems)
+- Build a strong portfolio of advanced data engineering and ML projects  
+- Contribute to open-source data tooling or infrastructure  
+- Pursue graduate studies or specialized roles in data engineering, ML engineering, or large-scale analytics  
 
----
 
-If you want, I can also generate a version that is more minimal, more personal, or more technical.
 
 ## 💬 Let's Connect
 - 🌐 [LinkedIn](https://www.linkedin.com/in/amine-cloud04)
