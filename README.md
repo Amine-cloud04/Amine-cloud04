@@ -65,7 +65,7 @@ My approach emphasizes understanding the full lifecycle of data: ingestion, stor
 
 
 ## 💬 Let's Connect
-- 🌐 [LinkedIn](https://www.linkedin.com/in/amine-cloud04)
+- 🌐 [LinkedIn](www.linkedin.com/in/aminemimis)
 - 📧 aminimis2004@gmail.com
 
 Feel free to check out my repositories, and don't hesitate to reach out if you want to collaborate on exciting projects! 
