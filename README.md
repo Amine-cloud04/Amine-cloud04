@@ -1,28 +1,61 @@
-# 👋 Hi, I'm Amine!
+# About Me
 
-Welcome to my GitHub profile! I'm a **Data Engineering** student at **INPT** with a passion for **mathematics**, **programming**, and **data science**. I'm always looking to improve my skills and explore new technologies. 
+I am a Data Engineering student at INPT (Morocco).  
+My main interests revolve around mathematics, algorithms, systems, and data-driven architectures.  
+I focus on understanding concepts in depth and building projects that reinforce intuition rather than relying on superficial learning.
 
-## 🚀 About Me
-- 💻 Currently diving deep into **Data Engineering** and **Software Engineering**.
-- 🔍 Fascinated by **algorithms**, **data structures**, **cybersecurity**, and **cloud computing**.
-- 📚 Love working on **theoretical problems** and applying **mathematical concepts** to real-world issues.
-- 🌱 I’m always learning and exploring new **tools**, **languages**, and **frameworks**.
-- 🎯 Interested in **AI**, **machine learning**, **networking**, and **cloud technologies**.
-  
-## 🌟 Skills
-- **Languages**: Python, C, Java, Shell scripting
-- **Tools & Technologies**: Git,  Linux, SQL, Python , Jupyter
-- **Concepts**: Data Structures & Algorithms, Mathematics , Data Science
+---
 
-## 🚀 Some of My Projects
-- **[Ising 3D Model Simulation](https://github.com/Amine-cloud04/ising-3d)**: A 3D Ising model simulation to study magnetic properties.
-- **[Ransomwares detection with ML ](https://github.com/Amine-cloud04/local-chat)**: A simple model to predict ransomwares from goodwares.
+## Current Focus
+
+- Strengthening software engineering fundamentals  
+  (data structures and algorithms, system design, clean code practices)
+- Developing practical skills in Python, C, Java, Git, and Linux
+- Improving my understanding of operating systems, networks, and relational databases
+- Building complete end-to-end projects to prepare for data engineering roles
+
+---
+
+## Technical Interests
+
+- Data engineering and large-scale data systems  
+- Distributed systems and cloud concepts  
+- Networking fundamentals (routing, addressing, protocols)  
+- Operational research and optimization  
+- Machine learning foundations  
+- Systems programming and Linux environments
+
+---
+
+## Tools and Technologies
+
+- Python, Scala , Java  
+- Linux, Shell scripting, Git  
+- SQL and relational database design  
+- Basic knowledge of networking (static routing, addressing, subnets)  
+- Familiarity with data engineering workflows and applied mathematics
+
+---
+
+## What I'm Working On Right Now
 
 
+
+---
+
+## Long-Term Goals
+
+- Build a strong technical foundation early in my studies  
+- Develop a solid portfolio of practical projects  
+- Pursue advanced opportunities later (research, industry roles in data engineering or distributed systems)
+
+---
+
+If you want, I can also generate a version that is more minimal, more personal, or more technical.
 
 ## 💬 Let's Connect
 - 🌐 [LinkedIn](https://www.linkedin.com/in/amine-cloud04)
 - 📧 aminimis2004@gmail.com
 
-Feel free to check out my repositories, and don't hesitate to reach out if you want to collaborate on exciting projects! 🚀
+Feel free to check out my repositories, and don't hesitate to reach out if you want to collaborate on exciting projects! 
 
